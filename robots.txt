@@ -1,0 +1,3 @@
+Sitemap: https://wavvestudio.in/sitemap.xml
+User-agent: *
+Disallow:
